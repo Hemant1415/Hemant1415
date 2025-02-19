@@ -13,11 +13,10 @@ Hello! I'm Hemant, a passionate software developer with expertise in Python, Jav
 ## Interests
 
 - **Sports:** 
-  ![Football](https://media.giphy.com/media/3orieYq4Rys3L8d3Y0/giphy.gif)
+  Football
   
 - **Games:** 
-  ![Chess](https://media.giphy.com/media/12iskl9W4UZSj6/giphy.gif)
-
+  Chess
 - **Hobbies:** 
   Listening to music
 
