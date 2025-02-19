@@ -2,7 +2,7 @@
 
 ![Developer Mode](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-I'm a passionate **Software Developer** who loves turning **caffeine** ☕ into **code** 💻. My expertise includes **Python, Java, HTML, CSS, JavaScript, and SQL**. When I'm not coding, I'm probably **strategizing my next chess move**, watching football, or vibing to some good music. 🎶
+I'm a passionate **Software Developer** who loves turning **tea** ☕ into **code** 💻. My expertise includes **Python, Java, HTML, CSS, JavaScript, and SQL**. When I'm not coding, I'm probably **strategizing my next chess move**, watching football, or vibing to some good music. 🎶
 
 ## 🚀 Skills
 
